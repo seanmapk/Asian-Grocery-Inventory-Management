@@ -17,7 +17,7 @@ This project provides analytical tools that aim to improve replenishment decisio
 ## Technical Tools
 - **Database:** SQLite (relational schema design)
 - **Programming:** Python (Pandas, SQL query)
-- **Analysis:** Demand forecasting, Safety Stock calculation, Reorder Point model
+- **Analytics:** Demand forecasting, Safety Stock calculation, Reorder Point model
 - **Output:** KPI reports, replenishment recommendations
 
 ## System Architecture
