@@ -11,6 +11,7 @@ The goal is to help the management team minimize stockout risk while maintaining
 - Demand volatility (e.g., weekend/seasonal peaks)
 - Risk of overstock and product expiration
 - Stockout due to delayed transportation
+
 This project provides analytical tools that aim to improve replenishment decisions and tackle the above challenges.
 
 ## Technical Tools
